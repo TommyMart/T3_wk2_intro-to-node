@@ -1,7 +1,9 @@
 const inquirer = require("inquirer");
 
-console.log("Dicer roller app is running!");
 
+// To start the app enter 'npm run dev' in the terminal
+
+console.log("Dicer roller app is running!");
 
 /**
  * Generate a random number between 1 and diceSize
